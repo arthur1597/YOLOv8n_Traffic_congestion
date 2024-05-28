@@ -1,3 +1,3 @@
 # YOLOv8n_Traffic_congestion
 
-![말하는 감자](https://cdn.poomang.com/auto-generated/talking-potato/images/cover.png?ts=1681444699874)
+![말하는 감자](cover.png)
