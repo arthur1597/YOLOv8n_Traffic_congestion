@@ -1,5 +1,4 @@
 # YOLOv8n_Traffic_congestion_Check
----
 ## Yolov8을 이용해서 객체를 탐지하여 교통 혼잡도 체크하기
 ---
 ![객체탐지이미지](이미지1.PNG)
@@ -19,7 +18,6 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 3.작은 객체도 탐지 원할하게 개선
 
 ## 기술 스택
----
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white">
 
 **사용한 데이터셋**
