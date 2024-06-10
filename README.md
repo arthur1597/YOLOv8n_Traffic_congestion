@@ -12,8 +12,8 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 ## 기술 스택
 ---
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=ultayrics&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=roboflow&logoColor=white">
+<img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white">
+<img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white">
 
 ## installation
 ---
