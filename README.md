@@ -55,6 +55,8 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 ### Yolov8로 Vehicle 객체 Detection하고 인식 범위 지정한 후 이미지 좌표를 이용하여 범위 지정하여 지정된 범위내에 있는 탐지된 객체 수 세어 교통 혼잡도 알려준다
 
 **학습 결과 지표**
+
+
 ![result](result.PNG)
 
 ### ⛔트러블 슈팅!!
