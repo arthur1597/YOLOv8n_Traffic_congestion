@@ -49,6 +49,7 @@ rovoflow 내 데이터 셋 : 2개
 https://universe.roboflow.com/farzad/vehicle_detection_yolov8/dataset/3
 https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 
+
 ##모델 선정이유
 ---
 고준형. "차량 객체 탐지를 위한 딥러닝 모델 성능 비교 분석." 국내석사학위논문 경기대학교 대학원, 2022. 경기도
