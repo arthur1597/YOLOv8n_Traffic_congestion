@@ -32,9 +32,8 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 
 ## 사용 라이브러리
 ---
-'''pip install ultraytics'''
-'''
-import os
+@pip install ultraytics
+
 import shutil
 import numpy as np
 import pandas as pd
