@@ -15,15 +15,7 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 
 ## installation
 ---
-!pip install ultralytics
-
-import numpy as np
-
-
-import pandas as pd
-
-
-import cv2
+pip install ultraytics
 
 ## 구현 내용
 ---
