@@ -17,7 +17,9 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 2.영상 속 차선의 갯수를 통해 임계값 유동적 변경
 3.작은 객체도 탐지 원할하게 개선
 
-##<img src="https://img.shields.io/badge/bookstack-0288D1?style=for-the-badge&logo=bookstack&logoColor=white"> 사용 라이브러리 및 기술
+img src="https://img.shields.io/badge/bookstack-0288D1?style=for-the-badge&logo=bookstack&logoColor=white">##사용 라이브러리 및 기술
+
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white"><img src="https://img.shields.io/badge/pytorch
 -8CAAE6?style=for-the-badge&logo=pytorch&logoColor=white">
 ---
