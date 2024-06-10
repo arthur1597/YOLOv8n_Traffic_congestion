@@ -1,4 +1,4 @@
-![image](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/0c96d484-6f24-44e8-b58c-c0b305e30629)# YOLOv8n_Traffic_congestion_Check
+#YOLOv8n_Traffic_congestion_Check
 ---
 ##Yolov8을 이용해서 객체를 탐지하여 교통 혼잡도 체크하기
 ---
