@@ -32,7 +32,7 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 ##모델 선정이유##---
 
 
-## installation
+## 사용 라이브러리
 ---
 '''pip install ultraytics'''
 '''
