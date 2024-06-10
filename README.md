@@ -7,15 +7,47 @@
 
 CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 시스템, 교통카메라의 실시간 교통영상을 활용하여
 차량 객체를 탐지하여 임계치를 설정하고 Low,Middle,High 범주로 화면 상단에 표시한다. 
+이를 통해 내가 원하는 지역의 교통 혼잡도를 파악하여 혼잡도가 높은 지역을 피해 경로를 짜서 교통체증의 스트레스를 줄일 수 있다
 
+**현 프로젝트의 문제점**
+1.영상을 일일히 넣어 혼잡도를 파악하고자하는 곳의 좌표값을 찾아야함
+2.작은 객체들은 탐지하기 힘듦
+3.임계치값을 이미 정의하여 유동적 확인 불가
+**추후개선사항**
+1.앱이나 웹에 연결하여 실시간 영상을 통해 쉽게 교통혼잡도 파악 가능
+2.영상 속 차선의 갯수를 통해 임계값 유동적 변경
+3.작은 객체도 탐지 원할하게 개선
 
 ## 기술 스택
 ---
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white">
 
+**사용한 데이터셋**
+rovoflow 내 데이터 셋 : 2개
+<Vehicle_Detection_YOLOv8 Image Dataset>
+https://universe.roboflow.com/farzad/vehicle_detection_yolov8/dataset/3
+<Traffic Congestion Detection Computer Vision project>
+https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
+
+##모델 선정이유##---
+
+
 ## installation
 ---
-/*pip install ultraytics*/
+'''pip install ultraytics'''
+'''
+import os
+import shutil
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import cv2
+import yaml
+import torch
+from PIL import Image
+from ultralytics import YOLO
+'''
 
 ## 구현 내용
 ---
