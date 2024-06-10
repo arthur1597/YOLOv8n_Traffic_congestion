@@ -32,19 +32,29 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 
 ## 사용 라이브러리
 ---
-@pip install ultraytics
+shutil
 
-import shutil
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import cv2
-import yaml
-import torch
-from PIL import Image
-from ultralytics import YOLO
-'''
+
+numpy
+
+
+pandas
+
+
+matplotlib
+
+
+seaborn
+
+
+cv2
+
+
+pytorch
+
+
+ultralytics import YOLO
+
 
 ## 구현 내용
 ---
