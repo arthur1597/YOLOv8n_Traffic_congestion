@@ -45,9 +45,8 @@ rovoflow 내 데이터 셋 : 2개
 
 <Traffic Congestion Detection Computer Vision project>
 
-**<Vehicle_Detection_YOLOv8 Image Dataset>**
+
 https://universe.roboflow.com/farzad/vehicle_detection_yolov8/dataset/3
-**<Traffic Congestion Detection Computer Vision project>**
 https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 
 ##모델 선정이유
