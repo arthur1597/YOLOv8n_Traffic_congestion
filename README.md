@@ -27,7 +27,7 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 3.작은 객체도 탐지 원할하게 개선
 
 
-## 사용 라이브러리 및 기술
+## 📚사용 라이브러리 및 기술
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch
@@ -48,10 +48,28 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 고준형. "차량 객체 탐지를 위한 딥러닝 모델 성능 비교 분석." 국내석사학위논문 경기대학교 대학원, 2022. 경기도
 논문에서 실시간 객체 탐지에서 CenterNet이 적합하다 하지만 YOLO가 적은 데이터량으로도 최적의 성능에 도달하고 데이터 셋 불균형 해소를 해결해주기도하고 Yolov8에서는 실시간 객체 탐지 성능 또한 향상되었기때문에 YOLO로 선정하였다 
 
-
+## flowChart
+![flowchart](flowChart.PNG)
 ## 구현 내용
 ---
 ### Yolov8로 Vehicle 객체 Detection하고 인식 범위 지정한 후 이미지 좌표를 이용하여 범위 지정하여 지정된 범위내에 있는 탐지된 객체 수 세어 교통 혼잡도 알려준다
+
+**학습 결과 지표**![result](result.PNG)
+
+### ⛔트러블 슈팅!!
+
+![오탐지](오탐지.mp4)
+
+
+하이퍼파라미터 조정 등 여러가지 방법을 해보았지만 결국
+--> 데이터셋 추가로 해결
+![오탐지](오탐지 개선.mp4)
+
+
+## 최종 결과
+---
+
+![최종](결과값 2.avi)
 
 
 
