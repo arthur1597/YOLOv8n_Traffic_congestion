@@ -3,7 +3,7 @@
 ## Yolov8을 이용해서 객체를 탐지하여 교통 혼잡도 체크하기
 ---
 ![객체탐지이미지](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
-![객체탐지이미지2](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/blob/main/3.PNG)
+![객체탐지이미지2](2.PNG)
 ![결과이미지](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/blob/main/3.PNG)
 
 CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 시스템, 교통카메라의 실시간 교통영상을 활용하여
