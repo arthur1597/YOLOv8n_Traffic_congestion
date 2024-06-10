@@ -3,15 +3,16 @@
 ## Yolov8을 이용해서 객체를 탐지하여 교통 혼잡도 체크하기
 ---
 
-[이미지1][이미지2][이미지3]
+
 CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 시스템, 교통카메라의 실시간 교통영상을 활용하여
 차량 객체를 탐지하여 임계치를 설정하고 Low,Middle,High 범주로 화면 상단에 표시한다. 
 
 
 ## 기술 스택
 ---
-python3,Yolov8,openCV,pandas
-[roboflow][ultralytics]
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=ultayrics&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=roboflow&logoColor=white">
 
 ## installation
 ---
