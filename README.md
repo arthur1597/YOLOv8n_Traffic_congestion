@@ -11,7 +11,7 @@ CCTV와 같은 차도 영상을 이용하여 교통 혼잡도를 측정하는 �
 
 ## 기술 스택
 ---
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"><img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white">
 
 ## installation
 ---
@@ -28,6 +28,8 @@ import cv2
 ## 구현 내용
 ---
 ### Yolov8로 Vehicle 객체 Detection하고 인식 범위 지정한 후 이미지 좌표를 이용하여 범위 지정하여 지정된 범위내에 있는 탐지된 객체 수 세어 교통 혼잡도 알려준다
+
+
 
 
 
