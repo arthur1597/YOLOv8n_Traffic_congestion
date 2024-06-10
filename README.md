@@ -59,19 +59,14 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 ### ⛔트러블 슈팅!!
 
 
-
 https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/75eb63a3-6d9d-4b43-b31c-2834c069d6b7
-
-
 
 
 하이퍼파라미터 조정 등 여러가지 방법을 해보았지만 결국
 --> 데이터셋 추가로 해결
 
 
-
-https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/64972da0-2495-47b2-abc3-ae95e2a32b6a
-
+https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/52a3abcf-e6e8-4207-a944-2e37a93f4bf5
 
 
 ## 최종 결과
