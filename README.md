@@ -73,11 +73,6 @@ https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/75eb63
 추가한 데이터셋과의 기존 데이터의 Label을 맞춰주기 위해 라벨링 진행(Class Id 변환)
 
 
-![image](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/72ff8db4-e7cd-4925-bb5a-fa55b40d9388)
-
-![image](https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/47fe15c4-dd82-4139-ba24-88e9c165f14c)
-
-
 
 https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/52a3abcf-e6e8-4207-a944-2e37a93f4bf5
 
