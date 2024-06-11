@@ -80,7 +80,8 @@ https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/52a3ab
 ---
 
 
-https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/7c364f9f-40fa-4105-ab15-24e68e0acb3e
+https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/f4eb68b5-3f2f-49a6-b3fe-06f08f035591
+
 
 
 
