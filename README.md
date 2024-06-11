@@ -47,7 +47,7 @@ https://universe.roboflow.com/sxc/traffic-congestion-detection/dataset/9/images
 ## 모델 선정이유
 ---
 고준형. "차량 객체 탐지를 위한 딥러닝 모델 성능 비교 분석." 국내석사학위논문 경기대학교 대학원, 2022. 경기도
-논문에서 실시간 객체 탐지에서 CenterNet이 적합하다 하지만 YOLO가 적은 데이터량으로도 최적의 성능에 도달하고 데이터 셋 불균형 해소를 해결해주기도하고 Yolov8에서는 실시간 객체 탐지 성능 또한 향상되었기때문에 YOLO로 선정하였다 
+논문에서 실시간 객체 탐지에서 CenterNet이 적합하다고 하지만 YOLO가 데이터셋 불균형 해소를 해결해주기도하고 적은 데이터량으로도 최적의 성능을 뽑아 낼 수 있다하여 큰 매력을 느꼈고 Yolov8에서는 실시간 객체 탐지 성능 또한 향상되었기때문에 YOLO로 선정하였다 
 
 ## flowChart
 ![flowchart](flowChart.PNG)
