@@ -80,7 +80,7 @@ https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/52a3ab
 ---
 
 
-https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/f3b303a3-7544-4f89-b9d5-07e3c1852b4d
+rain_out.mp4
 
 
 
