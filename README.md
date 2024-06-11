@@ -68,6 +68,8 @@ https://github.com/arthur1597/YOLOv8n_Traffic_congestion/assets/135976261/75eb63
 
 하이퍼파라미터 조정 등 여러가지 방법을 해보았지만 결국
 --> 데이터셋 추가로 해결
+
+
 추가한 데이터셋과의 기존 데이터의 Label을 맞춰주기 위해 라벨링 진행
 
 
